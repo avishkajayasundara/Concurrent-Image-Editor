@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\bin\Debug\CB007644.exe.config
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\bin\Debug\CB007644.exe
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\bin\Debug\CB007644.pdb
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.Form1.resources
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.Properties.Resources.resources
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.exe
+C:\Users\User\Desktop\TBSE Assignment\CB007644\CB007644\obj\Debug\CB007644.pdb
